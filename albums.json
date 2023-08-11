@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Chief",
+        "artist": "Eric Church",
+        "released": "2011",
+        "numCopies": "6",
+        "price": "29.99",
+        "genre": "Country",
+        "songs": ["Creepin", "Drink In My Hand", "Keep On", "Like Jesus Does", "Hungover & Hard Up", "HomeBoy", "Country Music Jesus", "Jack Daniels", "Springsteen", "I'm Gettin' Stoned", "Over When It's Over"],
+        "limitedEdition": "False"
+    },
+    {
+        "title": "All The Little Lights",
+        "artist": "Passenger",
+        "released": "2012",
+        "numCopies": "3",
+        "price": "24.99",
+        "genre": "Folk",
+        "songs": ["Things That stop You Dreaming", "Let Her Go", "Staring At The Stars", "All The Little Lights", "The Wrong Driection", "Circles", "Keep On Walking", "Patient Love", "Life's For The Living", "Holes", "Feather On The Clyde", "I Hate"],
+        "limitedEdition": "False"
+    },
+    {   
+        "title": "Purple Rain",
+        "artist": "Price",
+        "released": "1984",
+        "numCopies": "2",
+        "price": "49.99",
+        "genre": "Pop Rock",
+        "songs": ["Let's Go Crazy", "Take Me With U", "The Beautiful Ones", "Computer Blue", "Darling Nikki", "When Doves Cry", "I Would Die 4 U", "Baby I'm A Star", "Purple Rain"],
+        "limitedEdition": "True"
+    },
+    {
+        "title": "Wilder Mind",
+        "artist": "Mudford & Sons",
+        "released": "2015",
+        "numCopies": "1",
+        "price": "35.99",
+        "genre": "Folk Rock",
+        "songs": ["Tompkins Square Park", "Believe", "The Wolf", "Wilder Minds", "Just Smoke", "Monster", "Snake Eyes", "Broad-Shouldered Beasts", "Cold Arms", "DitMas", "Only Love", "Hot Gates"],
+        "limitedEdition": "False"
+    },
+    {
+        "title": "Greatest Hits",
+        "artist": "Fleetwood Mac",
+        "released": "1988",
+        "numCopies": "2",
+        "price": "45.99",
+        "genre": "Rock",
+        "songs": ["Rhiannon", "Don't Stop", "Go your Own Way", "Hold Me", "Everywhere", "Gypsy", "As Long As You Follow", "Say You Love Me", "Dreams", "Little Lies", "Sara", "Tusk", "No Questions Asked"],
+        "limitedEdition": "False"
+    },
+    {
+        "title": "Beautiful Trama",
+        "artist": "Pink",
+        "released": "2017",
+        "numCopies": "3",
+        "price": "39.99",
+        "genre": "Pop Rock",
+        "songs": ["Beautiful Trama", "Revenge", "Whatever You Want", "What About Us", "But We Lost It", "Where We Go", "For Now", "Secrets", "Better Life", "I Am Here", "Wild Hearts Can't be Broken", "You Get My Love"],
+        "limitedEdition": "False"
+    },
+    {
+        "title": "Traveller",
+        "artist": "Chris Stapleton",
+        "released": "2015",
+        "numCopies": "4",
+        "price": "34.99",
+        "genre": "Country",
+        "songs": ["Traveller", "Fire Away", "Tennessee Whiskey", "Parachute", "Whisley And You", "Nobody To Blame", "More Of You", "When The Stars Comes Out", "Daddy Doesn't Pray Anymore", "Might As Well Get Stoned", "Was It 26", "The Devil Names Music", "Outlaw State Of Mind", "Sometimes I Cry"],
+        "limitedEdition": "False"
+    },
+    {
+        "title": "Up to Here",
+        "artist": "The Tragically Hip",
+        "released": "1989/2016",
+        "numCopies": "2",
+        "price": "32.99",
+        "genre": "Alternative Rock",
+        "songs": ["Blow At High Dough", "I'll Believe In You (Or I'll Be Leaving You Tonight)", "New Orleans Is Sinking", "38 Years Old", "She Didn't Know", "Boot Or Hearts", "Everytime You Go", "When The Weight Comes Down", "Tickle Down", "Another Midnight", "Opiated"],
+        "limitedEdition": "False"
+    }
+    ]
